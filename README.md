@@ -157,9 +157,9 @@ User Response      Golden Query Retrieval
 
 The following diagram is a reference architecture for the QueryMind Text-to-SQL Agent, illustrating the intended workflow for semantic caching, intent disambiguation, schema retrieval, SQL generation, security validation, query execution, and error recovery.
 
-![Text-to-SQL Agent Architecture](assets/text-to-sql.png)
+[Text-to-SQL Agent Architecture](assets/text-to-sql.png)
 
-**Reference:** Architecture diagram sourced from YouTube. Credit the original creator and link to the original video here: [YouTube video link](PASTE_ORIGINAL_YOUTUBE_URL_HERE).
+**Reference:** Architecture diagram sourced from YouTube. Credit the original creator and link to the original video here: [YouTube video link](https://www.youtube.com/watch?v=phxEKe3ngK0).
 
 *Note: This diagram is used as an architectural reference. It does not necessarily represent the exact implementation currently present in this repository.*
 
