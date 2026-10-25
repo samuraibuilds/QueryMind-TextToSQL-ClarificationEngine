@@ -443,7 +443,5 @@ The objective is to build a system that makes natural-language analytics more ac
 
 ---
 
-## License
 
-Add your chosen open-source license here, such as MIT, if you intend to distribute the project under that license.
 
